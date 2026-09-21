@@ -3,7 +3,7 @@
   "use strict";
   const DB = "cgg-public-content-v1", STORE = "snapshots", ACTIVE = "active";
   const SETTINGS = "cgg-update-settings-v1";
-  const DEFAULT_MANIFEST = "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/updates/manifest.json";
+  const DEFAULT_MANIFEST = "https://raw.githubusercontent.com/YSamiii/parenting_library/main/data/content-manifest.json";
   const baseUrl = new URL("data/knowledge.json", document.baseURI).href;
   const originalFetch = window.fetch.bind(window);
   let activeContent, lastRemote, readyResolve;

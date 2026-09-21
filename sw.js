@@ -1,4 +1,4 @@
-const CACHE = "child-growth-garden-general-v740";
+const CACHE = "child-growth-garden-general-v741";
 const CONTENT_URL = new URL("./data/knowledge.json", self.location).href;
 const CORE = [
   "./",

@@ -1,26 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "contentVersion": "7.4.0-content-120",
+  "latestVersion": "7.4.0-content-120",
   "updatedAt": "2026-09-21",
-  "entryCount": 120,
-  "books": [
-    {
-      "id": "montessori-toddler",
-      "status": "detailed"
-    },
-    {
-      "id": "montessori-at-home",
-      "status": "detailed"
-    },
-    {
-      "id": "whole-brain-child",
-      "status": "detailed"
-    }
-  ],
-  "dataFile": "./knowledge.json",
-  "updateProtocol": {
-    "schemaVersion": "1.0",
-    "manifestSetting": "内容更新中心 → GitHub manifest 公共地址",
-    "storage": "IndexedDB: cgg-public-content-v1（仅公共内容；个人状态使用其原有独立键）"
-  }
+  "summary": "当前已是最新内容，共120篇文章、3本书。",
+  "updates": []
 }

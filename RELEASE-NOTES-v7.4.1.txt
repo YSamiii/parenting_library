@@ -1,0 +1,12 @@
+儿童成长小草园 v7.4.1 · App shell fix
+发布日期：2026-09-21
+
+本次仅修复内容更新的初始配置：
+- 新安装设备默认使用 https://raw.githubusercontent.com/YSamiii/parenting_library/main/data/content-manifest.json。
+- data/content-manifest.json 改为更新链 manifest；当前 latestVersion 为 7.4.0-content-120，且没有待应用更新。
+- Service Worker App shell cache 更新为 child-growth-garden-general-v741，确保新的 content-runtime.js 生效。
+
+未改变：
+- 内容版本仍为 7.4.0-content-120。
+- 001–120 篇文章、三本书、UI、数据结构和已有更新能力。
+- IndexedDB 公共内容机制，以及收藏、已读、观察记录、个人设置等本地键。
