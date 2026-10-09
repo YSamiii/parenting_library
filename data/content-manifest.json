@@ -1,7 +1,16 @@
 {
   "schemaVersion": "1.0",
-  "latestVersion": "7.4.0-content-120",
-  "updatedAt": "2026-09-21",
-  "summary": "当前已是最新内容，共120篇文章、3本书。",
-  "updates": []
+  "latestVersion": "7.4.1-content-132",
+  "updatedAt": "2026-10-09",
+  "summary": "新增121–132共12篇文章，并更新101、105、116、119。",
+  "updates": [
+    {
+      "id": "content-121-132",
+      "fromVersion": "7.4.0-content-120",
+      "toVersion": "7.4.1-content-132",
+      "packageUrl": "./updates/7.4.1-content-132.json",
+      "sha256": "fb6ab74e099d882c0af52556fade51ee8d29e728b1d3bc9d5526c7f6cf59631c",
+      "summary": "新增121–132，并补充101、105、116、119。"
+    }
+  ]
 }
