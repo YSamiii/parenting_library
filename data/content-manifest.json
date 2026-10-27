@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "latestVersion": "7.4.1-content-132",
-  "updatedAt": "2026-10-09",
-  "summary": "新增121–132共12篇文章，并更新101、105、116、119。",
+  "latestVersion": "7.4.1-content-143",
+  "updatedAt": "2026-10-27",
+  "summary": "新增133–143共11篇文章，并补充116、120、123、125、128、131。",
   "updates": [
     {
       "id": "content-121-132",
@@ -11,6 +11,14 @@
       "packageUrl": "./updates/7.4.1-content-132.json",
       "sha256": "fb6ab74e099d882c0af52556fade51ee8d29e728b1d3bc9d5526c7f6cf59631c",
       "summary": "新增121–132，并补充101、105、116、119。"
+    },
+    {
+      "id": "content-133-143",
+      "fromVersion": "7.4.1-content-132",
+      "toVersion": "7.4.1-content-143",
+      "packageUrl": "./updates/7.4.1-content-143.json",
+      "sha256": "366bbed50270fda6a8f04d99077a074a3e14ddea3fd1e9bdaca54191d5d2db66",
+      "summary": "新增133–143共11篇文章，并补充116、120、123、125、128、131。"
     }
   ]
 }
